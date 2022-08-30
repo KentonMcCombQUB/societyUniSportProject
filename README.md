@@ -5,8 +5,8 @@ It will be designed to allow new-comers and established players to stay up-to-da
 
 As well as allowing for sign ups to teams. 
 - Register membership
-- Available to play
-- Will attend training
+- Available to play (player)
+- Will attend training (all)
 - More tasks & features to be added at player/ member level
 
 
