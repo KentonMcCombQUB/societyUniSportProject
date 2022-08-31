@@ -1,0 +1,36 @@
+body {
+    background-color: rgba(237, 239, 241, 0.911);
+    background-image: none;
+    font-family: 'Montserrat', sans-serif; /*Sets all fonts */
+}
+.header {
+    background-color: #13dbe2;
+    padding: 3%;
+    text-align: center;
+  }
+  
+.navbar {
+    width: 100%;
+    background-color: #123456;
+    overflow: auto;
+  }
+  
+  .navbar a {
+    float: left;
+    padding: 25px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .navbar a:hover {
+    background-color: rgb(240, 9, 9);
+    text-decoration: double underline;
+    font-size: 25px;
+  }
+  
+  /* Create a right-aligned (split) link inside the navigation bar */
+  .topnav a.split {
+    float: right;
+    color: white;
+  }
