@@ -12,3 +12,5 @@ As well as allowing for sign ups to teams.
 
 At Coach/Captain level, will allow to see which members are registers, available to play, numbers expected at training, and select team sheets from these lists.
 This will then allow the coaching staff & capt's to make team selections to those eligible. Those can then RSVP back to confirm. Ensuring complete team(s).  
+
+Depedning on the level the user is (Coach, Captain or Member) will allow them to see different pages allowed. As outlined above.
